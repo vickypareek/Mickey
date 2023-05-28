@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "27353035"))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
+API_ID = int(getenv("API_ID", "8694090"))
+API_HASH = getenv("API_HASH", "7f8a1d01b476382d483857ee440f4a1d")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "5350929381"))
+OWNER_ID = int(getenv("OWNER_ID", "6227284040"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Nexa_Verse")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "DadEyeBotz")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Dev_Arora_0981")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "The_Attraction_Crazy_group")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "The_Attraction_Crazy_Channel")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Love_24_hours_00")
 
 # Random Start Images
 IMG = [
@@ -28,7 +28,7 @@ IMG = [
     "https://telegra.ph//file/efb26cc17eef6fe82d910.jpg",
     "https://telegra.ph//file/ab4925a050e07b00f63c5.jpg",
     "https://telegra.ph//file/d169a77fd52b46e421414.jpg",
-    "https://telegra.ph//file/dab9fc41f214f9cded1bb.jpg",
+    "https://te.legra.ph/file/264937b461a1abdb7bd44.jpg",
     "https://telegra.ph//file/e05d6e4faff7497c5ae56.jpg",
     "https://telegra.ph//file/1e54f0fff666dd53da66f.jpg",
     "https://telegra.ph//file/18e98c60b253d4d926f5f.jpg",
